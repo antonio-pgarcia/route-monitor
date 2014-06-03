@@ -1,0 +1,2 @@
+#!/sbin/sh
+/usr/bin/bash /etc/rt-mon/rt-mon $1
